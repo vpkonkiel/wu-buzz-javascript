@@ -7,11 +7,11 @@ class WuBuzz {
             } else if (i % 3 == 0) {
                 output += "Wu";
             } else if (i % 5 == 0) {
-                output += "Tang"
+                output += "Tang";
             } else {
                 output += i;
             }
-            output += "\n"
+            output += "\n";
         }
         return output;
     }
