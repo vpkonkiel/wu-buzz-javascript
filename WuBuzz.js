@@ -3,3 +3,6 @@ class WuBuzz {
         return null;
     }
 }
+
+
+module.exports = WuBuzz;
